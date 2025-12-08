@@ -9,6 +9,9 @@
 <nav class="flex-container">
 	<a href="{base}/">Hem</a>
 	<a href="{base}/photoapp">Photo App</a>
+	<a href="{base}/register">Register</a>
+	<a href="{base}/shoppinglist">Shopping list</a>
+	<a href="{base}/memory">Memory</a>
 </nav>
 
 <svelte:head>
@@ -25,6 +28,14 @@
 	a:hover {
 		color: darkblue;
 	}
+	
+:global(body), :global(html){
+  margin: 0%;
+  padding: 0%;
+  height: 100vh;
+  width: 100vw;
+}    
+
 </style>
 
 {@render children?.()}
