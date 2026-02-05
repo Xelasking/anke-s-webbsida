@@ -12,6 +12,8 @@
 	<a href="{base}/register">Register</a>
 	<a href="{base}/shoppinglist">Shopping list</a>
 	<a href="{base}/memory">Memory</a>
+	<a href="{base}/chat">Chat</a>
+	<a href="{base}/search">Search</a>
 </nav>
 
 <svelte:head>
