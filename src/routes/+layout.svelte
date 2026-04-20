@@ -14,6 +14,9 @@
 	<a href="{base}/memory">Memory</a>
 	<a href="{base}/chat">Chat</a>
 	<a href="{base}/search">Search</a>
+	<a href="{base}/project1">Project 1</a>
+	<a href="{base}/project2">Project 2</a>
+	<a href="{base}/marketpoly">Market Poly</a>
 </nav>
 
 <svelte:head>
